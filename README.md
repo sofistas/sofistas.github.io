@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # sofistas.github.io
 Desenvolvimento do jogo Sofistas para treinamento em lógica de argumentação.
 
